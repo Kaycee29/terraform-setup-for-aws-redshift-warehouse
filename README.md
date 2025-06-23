@@ -1,8 +1,7 @@
 #  Terraform Setup for AWS Redshift Warehouse 
 
 Hi there!  
-This project helps you spin up an **Amazon Redshift cluster** using **Terraform**, with the right IAM permissions and clean configuration — perfect for analytics, data warehousing, or learning infrastructure-as-code.
-
+This project helps you set up an **Amazon Redshift cluster** using **Terraform**, with  IAM permissions and clean configuration for data warehousing.
 ## 🔧 What This Project Does
 
  this setup usimng terraform will:
