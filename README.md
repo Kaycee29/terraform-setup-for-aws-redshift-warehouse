@@ -4,7 +4,7 @@ Hi there!
 This project helps you set up an **Amazon Redshift cluster** using **Terraform**, with  IAM permissions and clean configuration for data warehousing.
 ## 🔧 What This Project Does
 
- this setup usimng terraform will:
+ this setup usimg terraform will:
 
 - Create a Redshift cluster with your customized settings
 - Attach your IAM role with permissions
