@@ -5,7 +5,7 @@ This project helps you spin up an **Amazon Redshift cluster** using **Terraform*
 
 ## 🔧 What This Project Does
 
-With just a few lines of code, this setup will:
+ this setup usimng terraform will:
 
 - Create a Redshift cluster with your customized settings
 - Attach your IAM role with permissions
